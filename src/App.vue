@@ -239,6 +239,7 @@ onBeforeUnmount(() => {
 
         <div id="top" class="hero__content">
           <div>
+            <span class="eyebrow">牛逼</span>
             <span class="eyebrow">高强度力量区 · 团课 · 恢复区 · 24 小时自助开放</span>
             <h1>把训练，变成每天都愿意回来的一小时</h1>
             <p class="lead">
